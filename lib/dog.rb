@@ -1,1 +1,13 @@
-class radio_button_tag
+class Dog 
+ 
+ def initia 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+end 
