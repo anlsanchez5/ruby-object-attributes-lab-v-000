@@ -12,7 +12,7 @@ class Person
   end
   
   def name 
-    @
+    "#{@first_name"
     
   
   
