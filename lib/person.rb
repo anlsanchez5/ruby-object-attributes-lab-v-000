@@ -6,7 +6,8 @@ class Person
     last_name = @last_name
   end
   
-  def full_name()
+  def name=(full_name)
+    @first_name = 
   
   
 end  
