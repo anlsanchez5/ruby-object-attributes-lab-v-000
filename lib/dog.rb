@@ -1,6 +1,6 @@
 class Dog 
  
- def initia 
+ def  
   
   
   
